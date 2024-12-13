@@ -75,13 +75,7 @@ li {
 .fonce {
     background-color: #ffffff64;
 }
-/* li:nth-child(odd) {
-    background-color: #F2D0D0;
-}
 
-li:nth-child(even) {
-    background-color: #F1A9A0;
-} */
 
 li:hover {
     transform: translateY(-8px);
