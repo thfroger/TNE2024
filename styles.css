@@ -66,13 +66,22 @@ li {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-li:nth-child(odd) {
+
+.clair {
+    background-color: #fafaf6b8;
+    font-weight: bold;
+}
+
+.fonce {
+    background-color: #ffffff64;
+}
+/* li:nth-child(odd) {
     background-color: #F2D0D0;
 }
 
 li:nth-child(even) {
     background-color: #F1A9A0;
-}
+} */
 
 li:hover {
     transform: translateY(-8px);
